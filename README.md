@@ -1,2 +1,9 @@
-# Web-development
-web development project used to create,read, upate and delete the user records from the structured data
+# User Management System
+
+A PHP & MySQL project developed for the ApexPlanet Internship.
+
+## Features
+- User Registration
+- User Login
+- Dashboard
+- Session Management
